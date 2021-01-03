@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\interfaces\bin\Debug\netcoreapp3.1\interfaces.exe
+C:\Users\dev\Desktop\interfaces\bin\Debug\netcoreapp3.1\interfaces.deps.json
+C:\Users\dev\Desktop\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.json
+C:\Users\dev\Desktop\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.dev.json
+C:\Users\dev\Desktop\interfaces\bin\Debug\netcoreapp3.1\interfaces.dll
+C:\Users\dev\Desktop\interfaces\bin\Debug\netcoreapp3.1\interfaces.pdb
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfo.cs
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.dll
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.pdb
+C:\Users\dev\Desktop\interfaces\obj\Debug\netcoreapp3.1\interfaces.genruntimeconfig.cache
